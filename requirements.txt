@@ -1,0 +1,9 @@
+numpy
+pandas
+opencv-python
+matplotlib
+tqdm
+scikit-learn
+tensorflow>=2.10
+torch>=1.13
+transformers>=4.30
