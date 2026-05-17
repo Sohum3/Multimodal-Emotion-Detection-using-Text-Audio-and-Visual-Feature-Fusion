@@ -61,7 +61,7 @@ After training, `model.h5` and `training_curves.png` are saved to the working di
 
 | Split      | Accuracy |
 |------------|----------|
-| Validation | ~XX%     |
+| Validation | 68%      |
 
 ## Dependencies
 
